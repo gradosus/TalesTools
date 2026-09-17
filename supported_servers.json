@@ -5,5 +5,12 @@
     "hpAddress": "0x00E8E434",
     "nameAddress": "0x00E90C00",
     "mapAddress": "0x00E89BD4"
+  },
+  {
+    "name": "RevoClassic RO",
+    "description": "RevoClassic RO",
+    "hpAddress": "0x0158A4C8",
+    "nameAddress": "0x0158D118",
+    "mapAddress": null
   }
 ]
